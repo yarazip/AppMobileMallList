@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Botões das categorias -->
+    <Button
+        android:id="@+id/btnCategoriaProdutoLimpeza"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Produto de Limpeza"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/btnCategoriaCarne"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Carne"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/btnCategoriaHortifrut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hortifrut"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/btnCategoriaNaoPereciveis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Não Perecíveis"
+        android:layout_marginBottom="16dp"/>
+
+</LinearLayout>

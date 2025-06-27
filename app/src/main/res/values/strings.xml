@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListaDeCompras</string>
+
+    <string-array name="categorias_array">
+        <item>Produto de Limpeza</item>
+        <item>Carne</item>
+        <item>Hortifrut</item>
+        <item>Não Perecíveis</item>
+    </string-array>
+</resources>
