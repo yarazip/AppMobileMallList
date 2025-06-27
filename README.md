@@ -21,8 +21,8 @@ Os dados são armazenados localmente com persistência, mesmo após o fechamento
 ## 🛠️ Tecnologias Utilizadas
 
 - [Android Studio](https://developer.android.com/studio)  
-- [Java](https://www.oracle.com/java/) ou [Kotlin](https://kotlinlang.org/)  
-- [Room Database](https://developer.android.com/jetpack/androidx/releases/room) (ou SQLite)  
+- [Java](https://www.oracle.com/java/)
+- [Room Database](https://developer.android.com/jetpack/androidx/releases/room) 
 - Material Design  
 - RecyclerView e ViewModel  
 
