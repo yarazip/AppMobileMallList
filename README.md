@@ -1,5 +1,7 @@
 # 🛒 AppMobileMallList
 
+### Elaborado por Lucas (Lucasksasa) e Yara (yarazip)
+
 Aplicativo mobile de lista de compras desenvolvido em Android com Java/Kotlin.
 
 ## 📱 Descrição
